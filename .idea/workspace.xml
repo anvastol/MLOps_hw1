@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4108c43c-3e4a-4326-b914-064ddfce2cf0" name="Changes" comment="new file">
-      <change beforePath="$PROJECT_DIR$/data_creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_creation.py" afterDir="false" />
+    <list default="true" id="4108c43c-3e4a-4326-b914-064ddfce2cf0" name="Changes" comment="change file data_creation.py">
+      <change afterPath="$PROJECT_DIR$/model_preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +34,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.data_creation.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -119,12 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1714558260969</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change file data_creation.py">
+      <option name="closed" value="true" />
+      <created>1714558475870</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714558475870</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file" />
+    <MESSAGE value="change file data_creation.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="change file data_creation.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
