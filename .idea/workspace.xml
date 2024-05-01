@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4108c43c-3e4a-4326-b914-064ddfce2cf0" name="Changes" comment="create file model_preprocessing.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4108c43c-3e4a-4326-b914-064ddfce2cf0" name="Changes" comment="create file model_preparation.py">
+      <change afterPath="$PROJECT_DIR$/model_testing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,14 +140,31 @@
       <option name="project" value="LOCAL" />
       <updated>1714558834809</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create file model_preprocessing.py">
+      <option name="closed" value="true" />
+      <created>1714560167959</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714560167959</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create file model_preparation.py">
+      <option name="closed" value="true" />
+      <created>1714560371601</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714560371601</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new file" />
     <MESSAGE value="change file data_creation.py" />
     <MESSAGE value="create file model_preprocessing.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="create file model_preprocessing.py" />
+    <MESSAGE value="create file model_preparation.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="create file model_preparation.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
