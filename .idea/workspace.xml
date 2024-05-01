@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4108c43c-3e4a-4326-b914-064ddfce2cf0" name="Changes" comment="create file model_preparation.py">
-      <change afterPath="$PROJECT_DIR$/model_testing.py" afterDir="false" />
+    <list default="true" id="4108c43c-3e4a-4326-b914-064ddfce2cf0" name="Changes" comment="create file model_testing.py">
+      <change afterPath="$PROJECT_DIR$/pipeline.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714560371601</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="create file model_testing.py">
+      <option name="closed" value="true" />
+      <created>1714560516189</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714560516189</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,7 +172,8 @@
     <MESSAGE value="change file data_creation.py" />
     <MESSAGE value="create file model_preprocessing.py" />
     <MESSAGE value="create file model_preparation.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="create file model_preparation.py" />
+    <MESSAGE value="create file model_testing.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="create file model_testing.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
